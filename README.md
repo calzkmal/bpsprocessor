@@ -95,10 +95,3 @@ Feel free to fork, modify, and contribute. Untuk penggunaan skala besar atau int
 Lisensi: **MIT License**
 
 ---
-
-## 🙋‍♂️ Kontak
-
-Dibuat oleh: **Calzy Akmal Indyramdhani**
-Universitas Pendidikan Indonesia – Rekayasa Perangkat Lunak
-📧 Email: *\[[calzkmal@gmail.com](mailto:calzkmal@gmail.com)]*
-🔗 LinkedIn: *\[linkedin.com/in/calzkmal]*
