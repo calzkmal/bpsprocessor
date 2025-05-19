@@ -99,6 +99,6 @@ Lisensi: **MIT License**
 ## 🙋‍♂️ Kontak
 
 Dibuat oleh: **Calzy Akmal Indyramdhani**
-Universitas Pendidikan Indonesia – Teknik Rekayasa Perangkat Lunak
-📧 Email: *\[[email@example.com](mailto:email@example.com)]*
-🔗 LinkedIn: *\[linkedin.com/in/yourprofile]*
+Universitas Pendidikan Indonesia – Rekayasa Perangkat Lunak
+📧 Email: *\[[calzkmal@gmail.com](mailto:calzkmal@gmail.com)]*
+🔗 LinkedIn: *\[linkedin.com/in/calzkmal]*
